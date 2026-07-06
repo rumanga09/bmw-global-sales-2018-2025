@@ -42,12 +42,3 @@ This project analyzes **3,072 rows** of BMW global sales data spanning **2018–
 - **Looker Studio** — interactive dashboard
 - **Google Colab Notebook** — analysis workflow & documentation
 
-## Repository Structure
-
-```
-├── data/                  # Dataset (raw & cleaned)
-├── notebooks/
-│   └── bmw_analysis.ipynb # Main analysis notebook
-├── assets/                # Dashboard screenshots & charts
-└── README.md
-```
