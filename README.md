@@ -12,7 +12,7 @@ An end-to-end data analysis project exploring global BMW sales trends and the ke
 |---|---|
 | Dataset | https://www.kaggle.com/datasets/mohamedamiralkrdawy/bmw-global-sales-analysis-20182025|
 | Interactive Dashboard (Looker Studio) | https://datastudio.google.com/reporting/ee6eb8d7-1672-4bb3-87b3-336046153dbb |
-| Google Colab Notebook | [https://colab.research.google.com/drive/1UoySSfdO3Yeym9Sg4xEDcM5Q-blAknGh?usp=sharing |
+| Google Colab Notebook | https://colab.research.google.com/drive/1UoySSfdO3Yeym9Sg4xEDcM5Q-blAknGh?usp=sharing |
 
 ---
 
